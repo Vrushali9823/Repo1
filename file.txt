@@ -2,3 +2,5 @@ Welcome to Git and Github Assignment
 This is my second commit
 This is my third commit
 Hello Everyone
+Today is Wednesday 
+It is demo for Push the incremental changes to GitHub Repository through Visual Studio Code IDE in simple way.
